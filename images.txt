@@ -1,1 +1,1 @@
-essteyr/ubuntu16.04
+essteyr/ubuntu16.04:latest
