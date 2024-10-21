@@ -1,1 +1,1 @@
-openairinterface/epc:latest
+openairinterface/enb:latest
