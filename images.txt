@@ -1,1 +1,1 @@
-matart/openairinterface：latest
+matart/openairinterface
