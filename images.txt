@@ -1,1 +1,1 @@
-ainanoha/openairinterface
+openairinterface/epc:latest
