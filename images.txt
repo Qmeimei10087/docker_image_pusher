@@ -1,1 +1,1 @@
-openairinterface/enb:latest
+chaoszhu/easynode:latest
