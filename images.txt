@@ -1,1 +1,2 @@
-hanifkukkalli/enodeb
+lfarizav/openair-cn_openair-cn-cups
+brunodzogovic/oai_epc
