@@ -1,2 +1,1 @@
-lfarizav/openair-cn_openair-cn-cups
-brunodzogovic/oai_epc
+sofianinho/docker-openairinterface-enb
