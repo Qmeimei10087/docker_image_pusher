@@ -1,1 +1,1 @@
-sofianinho/docker-openairinterface-enb
+ubuntu:18.04
