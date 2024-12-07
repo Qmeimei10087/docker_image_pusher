@@ -1,1 +1,1 @@
-davidribyrne/openbts
+davidribyrne/openbts:focal
