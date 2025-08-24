@@ -1,1 +1,1 @@
-pachulo/xenial-gr-gsm
+pachulo/xenial-gr-gsm-osmocombb:latest
