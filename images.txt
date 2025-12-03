@@ -1,1 +1,1 @@
-pachulo/xenial-gr-gsm-osmocombb:latest
+openjdk:8u102-jdk
