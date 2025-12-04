@@ -1,1 +1,1 @@
-openjdk:8u472-jdk
+oracle/serverjre8:8u472
